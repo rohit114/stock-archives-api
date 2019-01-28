@@ -55,7 +55,7 @@ ________________________________________________________________________________
 
 #2. Install Sails where our backend APIs are written
 
---Go to "backend-project" folder where package.json is located & Run following Commands:
+--clone the repo https://github.com/rohit114/stock-archives-api.git
 
 1. npm install node -g
 
