@@ -43,7 +43,7 @@ Voilla!! database "mydb" user "admin" created having table "data"
 
 -- to open db console 
 
-step5: psql postgres -u admin
+step5: psql postgres -U admin -d mydb
 
 
 LINUX
