@@ -38,6 +38,10 @@ module.exports.routes = {
   'get /best-performing-stocks/get': 'DataController.getBestPerformingStocks',
   'get /stocks-by-symbol/get': 'DataController.getStocksBySymbol',
   'get /symbols/get': 'DataController.getSymbols',
+  'post /stream/create': 'DataController.createStream',
+  'get /streams': 'DataController.fetchStreams',
+  'get /stream': 'DataController.fetchStreamById',
+
 
 
 };
